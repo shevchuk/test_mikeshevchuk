@@ -1,0 +1,19 @@
+.app-header {
+    background-color: #222;
+    height: 80px;
+    padding: 20px;
+    color: white;
+}
+
+.app-title {
+    padding-left: 10px;
+}
+
+.app-presin-container {
+    padding: 10px;
+}
+.app-presout-container {
+    padding: 10px;
+    width: 100%;
+}
+
